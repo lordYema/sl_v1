@@ -23,5 +23,7 @@ def app():
         # Print the extracted text in the console
         print(pdf_text)
 
-if __name__ == "__main__":
-    app()
+# if __name__ == "__main__":
+#     app()
+
+app()
